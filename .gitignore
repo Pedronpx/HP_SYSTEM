@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 node_modules
 =======
+=======
+>>>>>>> 48396867ce3e561694989707bb80582481aa0442
 # Compiled class file
 *.class
 
@@ -25,4 +28,7 @@ node_modules
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+<<<<<<< HEAD
 >>>>>>> 2cbda8e04d2e9a6337efcecc71572ae528650a4d
+=======
+>>>>>>> 48396867ce3e561694989707bb80582481aa0442
