@@ -43,6 +43,8 @@ app.post("/Login",async(req,res)=>{
         password:password
     }
 
+    console.log('teste....')
+
     try{
         const check=await collection.findOne({email:email})
 

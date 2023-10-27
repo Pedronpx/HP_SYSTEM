@@ -76,7 +76,7 @@ function App() {
           <div id="signup">
             <h1>Crie sua conta</h1>
             
-        <form action="/" method="post">
+        <form action="http://localhost:8000/Login" method="post">
               <div className="top-row">
               <div className="field-wrap">
           <label className={activeLabel.nome ? 'active highlight' : ''}>
@@ -175,7 +175,7 @@ function App() {
           <div id="login">   
             <h1>Bem Vindo!</h1>
             
-            <form action="/" method="post">
+            <form action="http://localhost:8000/Login" method="post">
               <div className="field-wrap">
               <label className={activeLabel.email? 'active highlight' : ''}>
             Email<span className="req">*</span>
